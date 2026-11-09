@@ -1,0 +1,19 @@
+{
+  "name": "portal-abono",
+  "description": "Agentes e skills do time do Portal Abono, IRIS e LESS.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Time Portal Abono"
+  },
+  "keywords": ["portal-abono", "iris", "less"],
+  "agents": "agents/",
+  "skills": [
+    "skills/explore/",
+    "skills/review/",
+    "skills/implement/",
+    "skills/verify/",
+    "skills/document/",
+    "skills/explain/",
+    "skills/domain/"
+  ]
+}

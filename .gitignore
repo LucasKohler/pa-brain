@@ -1,0 +1,18 @@
+# Artefatos locais
+artifacts/
+*.db
+*.log
+
+# Python
+__pycache__/
+*.pyc
+
+# Resultados locais de avaliação (os casos ficam versionados)
+evals/**/results/
+
+# Editores e SO
+.vs/
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

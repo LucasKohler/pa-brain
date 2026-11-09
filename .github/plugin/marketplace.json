@@ -1,0 +1,20 @@
+{
+  "name": "pa-brain",
+  "owner": {
+    "name": "Time Portal Abono"
+  },
+  "metadata": {
+    "description": "Agentes e skills do time do Portal Abono, IRIS e LESS",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "portal-abono",
+      "description": "Agentes labAIdessa-abono e carmouQA-abono e skills de exploração, revisão, implementação, verificação, documentação, ensino e domínio do Portal Abono.",
+      "version": "1.0.0",
+      "source": "./plugins/portal-abono",
+      "category": "team",
+      "keywords": ["portal-abono", "iris", "less", "review", "dotnet", "angular"]
+    }
+  ]
+}
